@@ -1,0 +1,26 @@
+C:\Users\marco\OneDrive\Área de Trabalho\projeto-final-manager\cadastro-produto\cadastro-produto\bin\Debug\netcoreapp3.1\cadastro-produto.exe
+C:\Users\marco\OneDrive\Área de Trabalho\projeto-final-manager\cadastro-produto\cadastro-produto\bin\Debug\netcoreapp3.1\cadastro-produto.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\projeto-final-manager\cadastro-produto\cadastro-produto\bin\Debug\netcoreapp3.1\cadastro-produto.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\projeto-final-manager\cadastro-produto\cadastro-produto\bin\Debug\netcoreapp3.1\cadastro-produto.runtimeconfig.dev.json
+C:\Users\marco\OneDrive\Área de Trabalho\projeto-final-manager\cadastro-produto\cadastro-produto\bin\Debug\netcoreapp3.1\cadastro-produto.dll
+C:\Users\marco\OneDrive\Área de Trabalho\projeto-final-manager\cadastro-produto\cadastro-produto\bin\Debug\netcoreapp3.1\cadastro-produto.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\projeto-final-manager\cadastro-produto\cadastro-produto\obj\Debug\netcoreapp3.1\cadastro-produto.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\projeto-final-manager\cadastro-produto\cadastro-produto\obj\Debug\netcoreapp3.1\cadastro-produto.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\projeto-final-manager\cadastro-produto\cadastro-produto\obj\Debug\netcoreapp3.1\cadastro-produto.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\projeto-final-manager\cadastro-produto\cadastro-produto\obj\Debug\netcoreapp3.1\cadastro-produto.dll
+C:\Users\marco\OneDrive\Área de Trabalho\projeto-final-manager\cadastro-produto\cadastro-produto\obj\Debug\netcoreapp3.1\cadastro-produto.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\projeto-final-manager\cadastro-produto\cadastro-produto\obj\Debug\netcoreapp3.1\cadastro-produto.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\projeto-final-manager\cadastro-produto\cadastro-produto\obj\Debug\netcoreapp3.1\cadastro-produto.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\DOCUMENTOS ESCOLA\projeto-final-manager\cadastro-produto\cadastro-produto\bin\Debug\netcoreapp3.1\cadastro-produto.exe
+C:\Users\marco\Desktop\DOCUMENTOS ESCOLA\projeto-final-manager\cadastro-produto\cadastro-produto\bin\Debug\netcoreapp3.1\cadastro-produto.deps.json
+C:\Users\marco\Desktop\DOCUMENTOS ESCOLA\projeto-final-manager\cadastro-produto\cadastro-produto\bin\Debug\netcoreapp3.1\cadastro-produto.runtimeconfig.json
+C:\Users\marco\Desktop\DOCUMENTOS ESCOLA\projeto-final-manager\cadastro-produto\cadastro-produto\bin\Debug\netcoreapp3.1\cadastro-produto.runtimeconfig.dev.json
+C:\Users\marco\Desktop\DOCUMENTOS ESCOLA\projeto-final-manager\cadastro-produto\cadastro-produto\bin\Debug\netcoreapp3.1\cadastro-produto.dll
+C:\Users\marco\Desktop\DOCUMENTOS ESCOLA\projeto-final-manager\cadastro-produto\cadastro-produto\bin\Debug\netcoreapp3.1\cadastro-produto.pdb
+C:\Users\marco\Desktop\DOCUMENTOS ESCOLA\projeto-final-manager\cadastro-produto\cadastro-produto\obj\Debug\netcoreapp3.1\cadastro-produto.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\DOCUMENTOS ESCOLA\projeto-final-manager\cadastro-produto\cadastro-produto\obj\Debug\netcoreapp3.1\cadastro-produto.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\DOCUMENTOS ESCOLA\projeto-final-manager\cadastro-produto\cadastro-produto\obj\Debug\netcoreapp3.1\cadastro-produto.AssemblyInfo.cs
+C:\Users\marco\Desktop\DOCUMENTOS ESCOLA\projeto-final-manager\cadastro-produto\cadastro-produto\obj\Debug\netcoreapp3.1\cadastro-produto.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\DOCUMENTOS ESCOLA\projeto-final-manager\cadastro-produto\cadastro-produto\obj\Debug\netcoreapp3.1\cadastro-produto.dll
+C:\Users\marco\Desktop\DOCUMENTOS ESCOLA\projeto-final-manager\cadastro-produto\cadastro-produto\obj\Debug\netcoreapp3.1\cadastro-produto.pdb
+C:\Users\marco\Desktop\DOCUMENTOS ESCOLA\projeto-final-manager\cadastro-produto\cadastro-produto\obj\Debug\netcoreapp3.1\cadastro-produto.genruntimeconfig.cache
